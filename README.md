@@ -3,8 +3,8 @@
 ## About me 💻
 - Software Developer
 - Data Ethusiast 
-## What i'm Woeking On:
--Exploring data analytics and building small projects to sharpen my Python and Data enginering skills
+## What i'm Working On:
+-Exploring data analytics and building small projects to sharpen my Python and Data enginering skills<br>
 -Exploring with beginner machine learning models.
 
 ## SOCIALS 🌐:
@@ -22,8 +22,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=michelle23-code&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=michelle23-code&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=michelle23-code&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=michelle23-code&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
