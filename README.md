@@ -1,14 +1,14 @@
-## Hi i'm Michelle 👩‍💻
+## Hi i'm Pontsho 👩‍💻
+Welcome to little 🏡 
 
 ## About me 💻
-- Software Developer
-- Data Ethusiast 
+- frontend Software Developer
+- Python Ethusiast 
 ## What i'm Working On:
--Exploring data analytics and building small projects to sharpen my Python and Data enginering skills<br>
--Exploring with beginner machine learning models.
+-Exploring Python Engineering 
 
 ## SOCIALS 🌐:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@MichelleLekoto) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@just_techgirl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pontsho-lekoto-94573a315?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEMxQ8GW9Tr%2BJGhDfTDOzrA%3D%3D) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@MichelleLekoto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pontsho-lekoto-94573a315?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEMxQ8GW9Tr%2BJGhDfTDOzrA%3D%3D) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
