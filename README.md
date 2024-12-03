@@ -1,5 +1,5 @@
 ## Hi i'm Pontsho 👩‍💻
-Welcome to little 🏡 
+Welcome to my virtual Home 🏡 
 
 ## About me 💻
 - frontend Software Developer
