@@ -8,7 +8,7 @@ Welcome to my virtual Home 🏡
 -Exploring Python Engineering 
 
 ## SOCIALS 🌐:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@MichelleLekoto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pontsho-lekoto-94573a315?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEMxQ8GW9Tr%2BJGhDfTDOzrA%3D%3D) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pontsho-lekoto-94573a315?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEMxQ8GW9Tr%2BJGhDfTDOzrA%3D%3D) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
