@@ -1,5 +1,5 @@
- # 💫 About Me:
-<br>💬 Ask me about JavaScript
+ # 👩‍💻Frontend Developer:
+<br> Python Ethusiast
 
 
 ## 🌐 Socials:
